@@ -6,12 +6,12 @@ My simple application to read Sun Tzu all lessons in android device. That is in 
 
 ***See The example ScreenShots below.***
 
-![ScreenShot](https://raw.github.com/saitawngpha/master/SunTzu-Shan_/ScreenShots/1.png)
-![ScreenShot](https://raw.github.com/saitawngpha/master/SunTzu-Shan_/ScreenShots/2.png)
-![ScreenShot](https://raw.github.com/saitawngpha/master/SunTzu-Shan_/ScreenShots/3.png)
-![ScreenShot](https://raw.github.com/saitawngpha/master/SunTzu-Shan_/ScreenShots/4.png)
-![ScreenShot](https://raw.github.com/saitawngpha/master/SunTzu-Shan_/ScreenShots/5.png)
-![ScreenShot](https://raw.github.com/saitawngpha/master/SunTzu-Shan_/ScreenShots/1_1.png)
-![ScreenShot](https://raw.github.com/saitawngpha/master/SunTzu-Shan_/ScreenShots/1_2.png)
-![ScreenShot](https://raw.github.com/saitawngpha/master/SunTzu-Shan_/ScreenShots/1_3.png)
-![ScreenShot](https://raw.github.com/saitawngpha/master/SunTzu-Shan_/ScreenShots/1_4.png)
+![ScreenShot](https://github.com/saitawngpha/SunTzu-Shan-/tree/master/ScreenShots/1.png)
+![ScreenShot](https://github.com/saitawngpha/SunTzu-Shan-/tree/master/ScreenShots/2.png)
+![ScreenShot](https://github.com/saitawngpha/SunTzu-Shan-/tree/master/ScreenShots/3.png)
+![ScreenShot](https://github.com/saitawngpha/SunTzu-Shan-/tree/master/ScreenShots/4.png)
+![ScreenShot](https://github.com/saitawngpha/SunTzu-Shan-/tree/master/ScreenShots/5.png)
+![ScreenShot](https://github.com/saitawngpha/SunTzu-Shan-/tree/master/ScreenShots/1_1.png)
+![ScreenShot](https://github.com/saitawngpha/SunTzu-Shan-/tree/master/ScreenShots/1_2.png)
+![ScreenShot](https://github.com/saitawngpha/SunTzu-Shan-/tree/master/ScreenShots/1_3.png)
+![ScreenShot](https://github.com/saitawngpha/SunTzu-Shan-/tree/master/ScreenShots/1_4.png)
