@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="#000000">
+  
+   <ImageView
+        android:id="@+id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp" />
+
+  <TextView
+   android:id="@+id/text_suntzu"
+   android:layout_width="wrap_content"
+   android:layout_height="wrap_content"
+   android:layout_marginLeft="5dp"
+   android:layout_toRightOf="@+id/image"
+   android:text="\nပိၼ်ႇတႅမ်ႈ - ၸဝ်ႈၶိုၼ်းသႂ်ႇ ၸႂ်ယဵၼ်\nယိူင်းဢၢၼ်း - ႁႂ်ႈပဵၼ်တၢင်းႁူႉၵႅမ်မိုဝ်း\nၶူင်သၢင်ႈ - ၸၢႆးတွင်ႉၾႃႉ(လၢင်းၶိူဝ်း)\n22/02/2015"
+   android:textColorLink="#FF00FF"/>
+  
+  <ImageView
+        android:id="@+id/image1" 
+        android:layout_width="wrap_content"
+        android:layout_height="100px"
+         android:layout_centerHorizontal="true" 
+        android:layout_below="@+id/text_suntzu" />
+
+</RelativeLayout>

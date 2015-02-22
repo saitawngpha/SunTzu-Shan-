@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_color" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/sun_intro"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:text="ၵႂၢမ်းၼမ်း" />
+            
+            <Button
+                android:id="@+id/sun_1"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:text="ပွင်ႈၼိုင်ႈ ၶၢတ်ႈလၢမ်းသိုၵ်း" />
+
+            <Button
+                android:id="@+id/sun_2"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:text="ပွင်ႈသွင် ႁၢင်ႈသိုၵ်း" />
+
+            <Button
+                android:id="@+id/sun_3"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:text="ပွင်ႈသၢမ် လၢပ်ႇၼႂ်းၾၵ်း" />
+            <Button
+                android:id="@+id/sun_4"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:text="ပွင်ႈသီႇ လၢႆးတိုၵ်း" />
+            <Button
+                android:id="@+id/sun_5"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:text="ပွင်ႈႁႃႈ ၵၢၼ်ၸႂ်ႉႁႅင်း" />
+            <Button
+                android:id="@+id/sun_6"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:text="ပွင်ႈႁူၵ်း လွၵ်းဢူၼ်ႈ လွၵ်းၶႅင်" />
+            <Button
+                android:id="@+id/sun_7"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:text="ပွင်ႈၸဵတ်း ၵၢၼ်တူင်ႉၼိုင်သိုၵ်း" />
+            <Button
+                android:id="@+id/sun_8"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:text="ပွင်ႈပႅတ်ႇ လၢႆးတိုၵ်းလၢႆလၢၵ်ႇ" />
+            <Button
+                android:id="@+id/sun_9"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:text="ပွင်ႈၵဝ်ႈ ၵၢၼ်ၶိုၼ်ႈသိုၵ်း" />
+            <Button
+                android:id="@+id/sun_10"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:text="ပွင်ႈသိပ်း ပိုၼ်ႉတီႈၼႃႈလိၼ်" />
+            <Button
+                android:id="@+id/sun_11"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:text="ပွင်ႈသိပ်းဢဵတ်း ၵဝ်ႈၽႅၼ်ႇလိၼ်" />
+            <Button
+                android:id="@+id/sun_12"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:text="ပွင်ႈသိပ်းသွင် တိုၵ်းလူၺ်ႈၾႆး" />
+            <Button
+                android:id="@+id/sun_13"
+                android:layout_width="290dp"
+                android:layout_height="wrap_content"
+                android:text="ပွင်ႈသိပ်းသၢမ် ၵၢၼ်ၸႂ်ႉသၢႆလပ်ႉ" />
+            
+            
+            
+        </LinearLayout>
+    </ScrollView>
+
+    <ImageButton
+        android:id="@+id/imgBut1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/scrollView1"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="9dp"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/scrollView1"
+        android:layout_alignTop="@+id/imageButton1"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="22dp"
+        android:text="The Art Of War"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/text_title1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageButton1"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:text="ၸိူင်းသိုၵ်း သုၼ်းၸိုဝ်ႇ"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>
